@@ -1,0 +1,12 @@
+aniso8601==9.0.1
+gevent==21.12.0
+graphene==3.0
+graphql-core==3.1.7
+graphql-relay==3.1.0
+graphql-server==3.0.0b4
+greenlet==1.1.2
+promise==2.3
+six==1.16.0
+typing-extensions==3.10.0.2
+zope.event==4.5.0
+zope.interface==5.4.0

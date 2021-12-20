@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+gevent = "==21.*"
+graphene = "==3.*"
+graphql-core = "==3.*"
+graphql-server = "==3.*"
+promise = "==2.*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
+
+[pipenv]
+allow_prereleases = true
